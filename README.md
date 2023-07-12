@@ -4,12 +4,12 @@
 <p align="left"><strong><samp>「</samp></strong></p>
   <p align="center">
     <samp>
-    <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=30&color=6791c9&center=true&width=410&height=45&lines=Hello+There.">
-      <br>
+    <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=30&color=6791c9&center=true&width=410&height=45&lines=hi,+i'm+sanchay.">
+<!--       <br>
       <b>
         I'm Sanchay, a final year Computer Science student at IIIT Lucknow.
       </b>
-      <br>
+      <br> -->
     </samp>
   </p>
 
