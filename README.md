@@ -55,5 +55,12 @@
   </table>
 </div>
 
+<div align="center">
+  <a href=https://spotify-github-profile.vercel.app/api/view?uid=213pymzdiir32z6421tr30rsr&redirect=true">
+<!--       natemoo-re / compact -->
+      <img src="https://spotify-github-profile.vercel.app/api/view?uid=213pymzdiir32z6421tr30rsr&cover_image=true&theme=natemoo-re&show_offline=false&background_color=16161e&interchange=true&bar_color=9ece6a&bar_color_cover=false">
+  </a>
+</div>
+
 </details>
 </div>
